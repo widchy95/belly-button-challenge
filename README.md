@@ -53,7 +53,7 @@ The dataset contains the following fields:
 
 The project is deployed using GitHub Pages. You can view the live dashboard here:
 
-[Live Dashboard on GitHub Pages](https://your-username.github.io/belly-button-challenge)
+[Live Dashboard on GitHub Pages](https://widchy95.github.io/belly-button-challenge)
 
 ## Usage
 
